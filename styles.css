@@ -336,6 +336,11 @@ footer {
   article {
     padding: 36px;
   }
+
+  .idea-container {
+    grid-template-columns: 1fr;
+    gap: 32px;
+  }
 }
 
 @media (max-width: 480px) {
